@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADB TCP/IP Connection Setup Script
 
 This script automates the process of setting up ADB over TCP/IP for an Android device connected to your computer via USB and establishes a connection using the specified IP address and port.
@@ -21,3 +22,7 @@ git clone https://github.com/Isaiah512/adb-tcpip-ip-connection-script.git
 1. Connect your Android device to your computer via USB.
 2. Run the script by running the .bat file.
 3. The script will automatically detect the local IP address of your device connected via USB and set up ADB over TCP/IP.
+=======
+# adb-tcpip-ip-connection-script
+Automates the process of setting up ADB over TCP/IP for an Android device connected to your computer via USB and establishes a connection using the specified IP address and port.
+>>>>>>> origin/main
