@@ -10,7 +10,7 @@ This script automates the process of setting up ADB over TCP/IP for an Android d
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/Isaiah512/adb-tcpip-ip-connection-script.git
+git clone https://github.com/Isaiah512/adb-tcp-ip-connection-auto.git
 ```
 2. cd adb-tcpip-ip-connection
 
